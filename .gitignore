@@ -1,7 +1,7 @@
 .project
 node_modules
 *.exe
-
+.DS_Store
 # compiled chaincode
 start/start
 finished/finished
